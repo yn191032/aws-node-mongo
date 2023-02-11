@@ -39,3 +39,4 @@ const Todo = mongoose.model('Todo', new mongoose.Schema({
   desc: String,
 }));
 
+console.log('test');
